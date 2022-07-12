@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-floating-promises */
 
+import fastifyStatic from '@fastify/static'
 import { FastifyInstance, FastifyReply, FastifyRequest } from 'fastify'
-import fastifyStatic from 'fastify-static'
 import { readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 import { getAbsoluteFSPath } from 'swagger-ui-dist'

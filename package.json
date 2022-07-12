@@ -41,8 +41,7 @@
     "postpublish": "git push origin && git push origin -f --tags"
   },
   "dependencies": {
-    "fastify-plugin": "^3.0.1",
-    "fastify-static": "^4.5.0",
+    "@fastify/static": "^5.0.0",
     "js-yaml": "^4.1.0",
     "swagger-ui-dist": "^4.6.1"
   },
