@@ -16,6 +16,7 @@
   "author": "Shogun <shogun@cowtech.it>",
   "license": "ISC",
   "private": false,
+  "main": "dist/index.js",
   "files": [
     "dist",
     "types",
