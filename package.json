@@ -43,6 +43,7 @@
   },
   "dependencies": {
     "@fastify/static": "^5.0.0",
+    "fastify-plugin": "^4.0.0",
     "js-yaml": "^4.1.0",
     "swagger-ui-dist": "^4.6.1"
   },
